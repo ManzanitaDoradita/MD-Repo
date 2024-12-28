@@ -1,0 +1,12 @@
+{
+  "name": "MD Repo",
+  "description": "Un repositorio para el plugin de PlayHubLite",
+  "plugins": [
+    {
+      "name": "PlayHubLite",
+      "version": "1.0",
+      "url": "https://github.com/ManzanitaDoradita/MD-Repo/blob/main/Playhub.cs",
+      "description": "Plugin para extraer contenido de PlayHubLite"
+    }
+  ]
+}
