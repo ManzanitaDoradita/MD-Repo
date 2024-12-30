@@ -1,11 +1,9 @@
-// PlayHubLite Plugin
-
-version = 1.0
+version = 1.1
 
 class PlayHubLite : MainAPI() {
     override val mainUrl = "https://playhublite.com"
     override val name = "PlayHubLite"
-    override val lang = "es" // Cambia si es multilingüe
+    override val lang = "es"
 
     override val searchUrl = "$mainUrl/search?query=%s"
 
